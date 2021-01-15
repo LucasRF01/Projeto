@@ -1,0 +1,42 @@
+body{
+    background-color: #383F54;
+    color: #ffffff;
+    }
+    
+    html{
+        scroll-behavior: smooth;
+    }
+    #barra-superior{
+        background-color: #3F208B;
+    }
+    .headbar{
+        text-align: center;
+    }
+    .textos{
+        color: #ffffff;
+    }
+    #final{
+        height: 480px;
+    }
+    #rodape{
+        height: 20px;
+        font-size: 10px;
+        background-color: #3F208B;
+        text-align: center;
+        /* position: fixed;
+        bottom: 0px; */
+    }
+    #btnTop{
+        /* height: 30px;
+        width: 30px; */
+        text-align: center;
+        position: fixed;
+        right: 0px;
+        bottom: 60px;
+        font-size: 30px;
+    }
+    @media screen and (max-width: 640px) {
+        #final{
+            height: 275px;
+        }
+    }
