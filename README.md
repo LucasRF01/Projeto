@@ -1,4 +1,7 @@
-# CakePHP Application Skeleton
+CakePHP project for an contact list web aplication
+
+
+<!-- # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/github/workflow/status/cakephp/app/CakePHP%20App%20CI/master?style=flat-square)](https://github.com/cakephp/app/actions)
 [![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
@@ -50,4 +53,4 @@ Other environment agnostic settings can be changed in `config/app.php`.
 
 The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
-custom styles.
+custom styles.  -->
